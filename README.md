@@ -132,6 +132,8 @@ Diseñar una función que permita calcular una aproximación de la función seno
             b=int(input("ingrese la cantidad de las serie de Maclaurin: ")) #Se pide la cantidad de la serie
             print(seno(a)) # Se imprime el valor "real"
             print(seriemc(a,b)) # Se imprime la aproximación
+![image](https://user-images.githubusercontent.com/124606636/233545601-99a12e95-c800-4abb-9f6e-a520218a6e29.png)
+
 #10
 Diseñar una función que permita calcular una aproximación de la función arcotangente alrededor de 0 para cualquier valor x en el rango [-1, 1], utilizando los primeros n términos de la serie de Maclaurin. nota: use math para traer la función arctan y mostrar la diferencia entre el valor real y la aproximación.
 
